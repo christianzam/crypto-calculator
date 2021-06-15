@@ -10,7 +10,7 @@ class Search extends Component {
     return(
       <div>
         <h1>Crypto Currency Savings Calculator</h1>
-        <h2>PON AQUI TU LANA ARTURO MAMON</h2>
+        <h2>Pon aqui tu lana en Bitcoin o lo que sea</h2>
         <form>
           <div className = "form-group">
             <label> Search for a currency: osea buscale que crypto moneda </label><br/>

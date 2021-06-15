@@ -22,7 +22,7 @@ class PortfolioContainer extends Component {
   }
   
   handleChange(e) {
-    axios.post('http://localhost:3000/search', {
+    axios.post('https://crypto-search-app.herokuapp.com/search', {
       search: e.target.value
     })
 
